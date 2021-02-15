@@ -3,7 +3,7 @@ home: true
 heroImage: https://dcoder.tech/assets/images/dcoder_pacman.png
 tagline: The official documentation for Dcoder, mobile coding platform.
 actionText: Quick Start →
-actionLink: https://play.google.com/store/apps/details?id=com.paprbit.dcoder
+actionLink: /guide/
 features:
 - title: Code on mobile
   details: With Dcoder you can code on the go.
@@ -11,6 +11,6 @@ features:
   details: Dcoder supports 50+ programming languages and frameworks
 - title: Custom Keyboard
   details: Comes with a custom keyboard to write code faster on mobile.
-footer: Under construction
+footer: Under construction, 
         Made with ❤️ by @dcodermobile
 ---
